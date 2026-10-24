@@ -15,7 +15,7 @@
 
 ---
 
-### 01 / Olá, mundo
+### Olá, mundo
 
 Sou **Alexandre Prestes**, estudante de **Engenharia Elétrica**, em Manaus, e estagiário em **Qualidade e Análise de Dados**.
 
@@ -35,7 +35,7 @@ Automatizei uma rotina de planilhas com Python. O tempo de execução passou de 
 
 <a id="projetos"></a>
 
-### 02 / Projetos para conhecer
+### Projetos para conhecer
 
 Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens abaixo vêm dos próprios repositórios.
 
@@ -101,7 +101,7 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 <a id="tecnologias"></a>
 
-### 03 / Ferramentas e aprendizado
+### Ferramentas e aprendizado
 
 **Na prática**  
 `Python` `Excel` `Power Query` `DAX` `HTML`
@@ -111,7 +111,7 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 Uso documentação técnica, Scrum e Kanban para organizar o desenvolvimento e comunicar as entregas.
 
-### 04 / Vamos conversar
+### Vamos conversar
 
 Busco oportunidades para crescer em **dados, BI e automação**, aplicando o que aprendo a problemas reais.
 
