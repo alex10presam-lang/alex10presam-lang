@@ -32,6 +32,7 @@ Meu foco é **análise de dados, Business Intelligence e automações em Python*
 **Formação e cursos**
 
 - **Engenharia Elétrica — Faculdade Anhanguera:** em andamento.
+- **Engenharia Elétrica — Universidade do Estado do Amazonas (UEA):** seis períodos cursados.
 - **Google Data Analytics Professional Certificate (v.3) — Google / Coursera:** outubro de 2026. [Ver certificado ↗](https://www.credly.com/go/NfA7bK2Y)
 - **Introdução ao Power BI — Fundação Bradesco:** 2026.
 
