@@ -19,11 +19,21 @@
 
 <h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-ola-mundo-v4.png"><img src="assets/section-ola-mundo-v4.gif" alt="Olá, Mundo" width="1200"></picture></h2>
 
-Sou **Alexandre Prestes**, estudante de **Engenharia Elétrica**, em Manaus, e estagiário em **Qualidade e Análise de Dados**.
+Sou **Alexandre Prestes**, estudante de **Engenharia Elétrica**, em Manaus, e estagiário em **Qualidade e Análise de Dados na Inventus Power**.
 
-Trabalho com tratamento de bases, indicadores e automação de planilhas. Nos meus projetos, conecto programação a necessidades do dia a dia: organizar informações, reduzir tarefas repetitivas e criar ferramentas úteis.
+Meu foco é **análise de dados, Business Intelligence e automações em Python**. Trabalho com extração e tratamento de bases, atualização de indicadores da qualidade e automação de planilhas, utilizando também **Power Query e DAX**. Estou aprofundando meus conhecimentos em **Power BI e SQL**.
 
-**Meu foco:** análise de dados, Business Intelligence e automações em Python. Atualmente, aprofundo meus conhecimentos em **Power BI e SQL**.
+**Experiência que conecta dados e soluções**
+
+- **Inventus Power · desde agosto de 2026:** tratamento de dados, atualização de bases e indicadores da qualidade e participação em melhorias com planilhas automatizadas e Power BI.
+- **Projetos independentes · desde 2023:** desenvolvimento de ferramentas em Python para estoque, vendas e organização de dados de pequenos negócios em Manaus.
+- **Academia STEM (Samsung) · novembro de 2022 a novembro de 2024:** coordenação de uma equipe de **seis pessoas** na entrega de **dois aplicativos**, para navegação fluvial e reciclagem, além de documentação técnica e uso de Scrum e Kanban.
+
+**Formação e cursos**
+
+- **Engenharia Elétrica — Faculdade Anhanguera:** em andamento.
+- **Google Data Analytics Professional Certificate (v.3) — Google / Coursera:** outubro de 2026. [Ver certificado ↗](https://www.credly.com/go/NfA7bK2Y)
+- **Introdução ao Power BI — Fundação Bradesco:** 2026.
 
 **Um resultado da minha experiência**
 
@@ -105,11 +115,14 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 <h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-ferramentas-v4.png"><img src="assets/section-ferramentas-v4.gif" alt="Ferramentas" width="1200"></picture></h2>
 
-**Na prática**  
-`Python` `Excel` `Power Query` `DAX` `HTML`
+**Dados e BI**  
+Excel intermediário · Power Query · DAX · Power BI básico · SQL básico
 
-**Aprofundando**  
-`Power BI` `SQL` `JavaScript`
+**Programação e automação**  
+Python intermediário · HTML intermediário · JavaScript básico
+
+**Organização de projetos**  
+Scrum · Kanban · documentação técnica
 
 Uso documentação técnica, Scrum e Kanban para organizar o desenvolvimento e comunicar as entregas.
 
@@ -120,10 +133,10 @@ Uso documentação técnica, Scrum e Kanban para organizar o desenvolvimento e c
 Busco oportunidades para crescer em **dados, BI e automação**, aplicando o que aprendo a problemas reais.
 
 **[Entre em contato por e-mail ↗](mailto:Alex10pres_am@hotmail.com)**  
-Manaus, Amazonas · Português nativo · Inglês intermediário
+Manaus, Amazonas · Português nativo · Inglês intermediário · Espanhol básico
 
 ---
 
 <p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/signature-geek-v4.png"><img src="assets/signature-geek-v4.gif" alt="Engenharia para entender. Dados para enxergar. Código para construir." width="1200"></picture>
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/signature-alexandre-v5.png"><img src="assets/signature-alexandre-v5.gif" alt="Engenharia para entender. Dados para enxergar. Código para construir. Alexandre em pixel art, sentado de lado em sua estação de trabalho." width="1200"></picture>
 </p>
