@@ -41,17 +41,22 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 #### ScrapFlow · Dados e automação
 
-<a href="https://github.com/alex10presam-lang/scrapflow#readme">
-  <img src="https://raw.githubusercontent.com/alex10presam-lang/scrapflow/main/docs/images/dashboard.jpg" alt="Painel real do ScrapFlow com indicadores de perdas e dados fictícios" width="900">
-</a>
-
-**Da entrada dos arquivos ao relatório Excel.** Validação de CSV/Excel, indicadores de perdas, filtros por linha e histórico de processamentos.
-
-**Python · Flask · SQLite · openpyxl**
-
-[Conhecer o projeto ↗](https://github.com/alex10presam-lang/scrapflow#readme) · [Executar a demonstração ↗](https://github.com/alex10presam-lang/scrapflow#experimente-em-poucos-minutos) · [Conferir os resultados do exemplo ↗](https://github.com/alex10presam-lang/scrapflow#um-resultado-que-voc%C3%AA-pode-conferir)
-
-<sub>Captura da aplicação com dados fictícios. O exemplo reproduzível inclui 12 ordens, 400 unidades perdidas e taxa de perda de 3,13%.</sub>
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/alex10presam-lang/scrapflow#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/scrapflow/main/docs/images/dashboard.jpg" alt="Painel real do ScrapFlow com indicadores de perdas e dados fictícios" width="260"></a>
+    </td>
+    <td width="58%" valign="middle">
+      <p><strong>Da entrada dos arquivos ao relatório Excel.</strong></p>
+      <p>Validação de CSV/Excel, indicadores de perdas, filtros por linha e histórico de processamentos.</p>
+      <p><strong>Python · Flask · SQLite · openpyxl</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/scrapflow#readme">Conhecer o projeto ↗</a></p>
+      <p><a href="https://github.com/alex10presam-lang/scrapflow#experimente-em-poucos-minutos">Executar a demonstração ↗</a></p>
+      <p><a href="https://github.com/alex10presam-lang/scrapflow#um-resultado-que-voc%C3%AA-pode-conferir">Conferir os resultados do exemplo ↗</a></p>
+      <p><sub>Captura da aplicação com dados fictícios. O exemplo reproduzível inclui 12 ordens, 400 unidades perdidas e taxa de perda de 3,13%.</sub></p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
