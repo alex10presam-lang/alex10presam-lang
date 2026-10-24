@@ -15,7 +15,9 @@
 
 ---
 
-### Olá, mundo
+<a id="ola-mundo"></a>
+
+<h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-ola-mundo-v4.png"><img src="assets/section-ola-mundo-v4.gif" alt="Olá, Mundo" width="1200"></picture></h2>
 
 Sou **Alexandre Prestes**, estudante de **Engenharia Elétrica**, em Manaus, e estagiário em **Qualidade e Análise de Dados**.
 
@@ -23,7 +25,7 @@ Trabalho com tratamento de bases, indicadores e automação de planilhas. Nos me
 
 **Meu foco:** análise de dados, Business Intelligence e automações em Python. Atualmente, aprofundo meus conhecimentos em **Power BI e SQL**.
 
-#### Um resultado da minha experiência
+**Um resultado da minha experiência**
 
 Automatizei uma rotina de planilhas com Python. O tempo de execução passou de aproximadamente **1 hora para 2 minutos**.
 
@@ -35,7 +37,7 @@ Automatizei uma rotina de planilhas com Python. O tempo de execução passou de 
 
 <a id="projetos"></a>
 
-### Projetos para conhecer
+<h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-projetos-v4.png"><img src="assets/section-projetos-v4.gif" alt="Projetos" width="1200"></picture></h2>
 
 Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens abaixo vêm dos próprios repositórios.
 
@@ -101,7 +103,7 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 <a id="tecnologias"></a>
 
-### Ferramentas e aprendizado
+<h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-ferramentas-v4.png"><img src="assets/section-ferramentas-v4.gif" alt="Ferramentas" width="1200"></picture></h2>
 
 **Na prática**  
 `Python` `Excel` `Power Query` `DAX` `HTML`
@@ -111,7 +113,9 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 
 Uso documentação técnica, Scrum e Kanban para organizar o desenvolvimento e comunicar as entregas.
 
-### Vamos conversar
+<a id="contato"></a>
+
+<h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-contato-v4.png"><img src="assets/section-contato-v4.gif" alt="Contato" width="1200"></picture></h2>
 
 Busco oportunidades para crescer em **dados, BI e automação**, aplicando o que aprendo a problemas reais.
 
@@ -120,4 +124,6 @@ Manaus, Amazonas · Português nativo · Inglês intermediário
 
 ---
 
-<p align="center"><sub>Engenharia para entender. Dados para enxergar. Código para construir.</sub></p>
+<p align="center">
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/signature-geek-v4.png"><img src="assets/signature-geek-v4.gif" alt="Engenharia para entender. Dados para enxergar. Código para construir." width="1200"></picture>
+</p>
