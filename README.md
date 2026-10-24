@@ -23,21 +23,76 @@ Trabalho com tratamento de bases, indicadores e automação de planilhas. Nos me
 
 **Meu foco:** análise de dados, Business Intelligence e automações em Python. Atualmente, aprofundo meus conhecimentos em **Power BI e SQL**.
 
-> Uma aplicação na prática: automatizei uma rotina de planilhas com Python e reduzi sua execução de aproximadamente **1 hora para 2 minutos**.
+#### Um resultado da minha experiência
+
+Automatizei uma rotina de planilhas com Python. O tempo de execução passou de aproximadamente **1 hora para 2 minutos**.
+
+| Antes | Com a automação |
+| :---: | :---: |
+| Aproximadamente **60 minutos** | Aproximadamente **2 minutos** |
+
+<sub>Tempos aproximados da rotina citada na minha experiência profissional. Os projetos públicos abaixo utilizam dados de demonstração.</sub>
 
 <a id="projetos"></a>
 
-### 02 / Meus repositórios públicos
+### 02 / Projetos para conhecer
 
-| Projeto | O que você vai encontrar |
-| :--- | :--- |
-| **[ScrapFlow ↗](https://github.com/alex10presam-lang/scrapflow#readme)** | Controle de perdas de produção, validação de arquivos e indicadores, com exportação de relatórios Excel. **Python · Flask · SQLite** |
-| **[SGC · Crediário ↗](https://github.com/alex10presam-lang/sgc-crediario-Python#readme)** | Gestão de vendas, estoque e recebimentos parcelados, com permissões por perfil e comprovantes em PDF. **Python · Streamlit · SQLAlchemy** |
-| **[EletroPro ↗](https://github.com/alex10presam-lang/eletricista-app#readme)** | Aplicativo Android para organizar clientes, preparar orçamentos e acompanhar trabalhos sem depender de conexão. **Aplicação prática em elétrica** |
-| **[DJ WASH ↗](https://github.com/alex10presam-lang/Estetica-Automotiva-Python#readme)** | Gestão de estética automotiva, com cadastro de clientes e veículos, inspeção fotográfica, acompanhamento de serviços e recibos em PDF. **Python · FastAPI · SQLAlchemy** |
-| **[Corretor de Provas ↗](https://github.com/alex10presam-lang/App_Corretor_Prova#readme)** | Organização de turmas e provas, folhas de respostas em PDF e leitura de marcações no celular, com revisão antes de salvar. **Flutter · Dart · Firebase** |
+Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens abaixo vêm dos próprios repositórios.
 
-[Explorar meus repositórios no GitHub ↗](https://github.com/alex10presam-lang?tab=repositories)
+#### ScrapFlow · Dados e automação
+
+<a href="https://github.com/alex10presam-lang/scrapflow#readme">
+  <img src="https://raw.githubusercontent.com/alex10presam-lang/scrapflow/main/docs/images/dashboard.jpg" alt="Painel real do ScrapFlow com indicadores de perdas e dados fictícios" width="900">
+</a>
+
+**Da entrada dos arquivos ao relatório Excel.** Validação de CSV/Excel, indicadores de perdas, filtros por linha e histórico de processamentos.
+
+**Python · Flask · SQLite · openpyxl**
+
+[Conhecer o projeto ↗](https://github.com/alex10presam-lang/scrapflow#readme) · [Executar a demonstração ↗](https://github.com/alex10presam-lang/scrapflow#experimente-em-poucos-minutos) · [Conferir os resultados do exemplo ↗](https://github.com/alex10presam-lang/scrapflow#um-resultado-que-voc%C3%AA-pode-conferir)
+
+<sub>Captura da aplicação com dados fictícios. O exemplo reproduzível inclui 12 ordens, 400 unidades perdidas e taxa de perda de 3,13%.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/sgc-crediario-Python#readme">SGC · Crediário ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/sgc-crediario-Python#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/sgc-crediario-Python/main/docs/images/dashboard.png" alt="Painel real do SGC com vendas, valores recebidos e parcelas em aberto" width="360"></a></p>
+      <p><sub>Captura com clientes, empresas e valores fictícios.</sub></p>
+      <p>Vendas, estoque e recebimentos parcelados, com perfis de acesso e comprovantes em PDF.</p>
+      <p><strong>Python · Streamlit · SQLAlchemy</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/sgc-crediario-Python#um-roteiro-para-explorar">Explorar a demonstração ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/Estetica-Automotiva-Python#readme">DJ WASH ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/Estetica-Automotiva-Python#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/Estetica-Automotiva-Python/main/docs/images/dashboard.png" alt="Painel real do DJ WASH para acompanhar serviços de estética automotiva" width="360"></a></p>
+      <p><sub>Captura com atendimentos e dados de demonstração.</sub></p>
+      <p>Gestão de estética automotiva: clientes, veículos, inspeção fotográfica, serviços e recibos em PDF.</p>
+      <p><strong>Python · FastAPI · SQLAlchemy</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/Estetica-Automotiva-Python#experimente-em-cinco-passos">Conhecer o fluxo ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/eletricista-app#readme">EletroPro ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/eletricista-app#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/eletricista-app/main/docs/images/inicio-mobile.png" alt="Tela inicial real do EletroPro com resumo e acesso aos orçamentos" width="140"></a></p>
+      <p><sub>Tela real do espaço de demonstração.</sub></p>
+      <p>Aplicativo Android para eletricistas: clientes, orçamentos em PDF e acompanhamento de trabalhos, com uso sem internet.</p>
+      <p><strong>Next.js · TypeScript · Capacitor</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/eletricista-app/releases/tag/v1.0.0">Experimentar no Android ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/App_Corretor_Prova#readme">Corretor de Provas ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/App_Corretor_Prova#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/App_Corretor_Prova/master/tests/fixtures/printed_sheet.png" alt="Folha de respostas real gerada pelo Corretor de Provas, com QR Code e marcadores de leitura" width="190"></a></p>
+      <p><sub>Folha gerada pelo aplicativo; o repositório documenta a integração ao projeto Flutter completo.</sub></p>
+      <p>Organização de turmas e provas, folhas em PDF e leitura de marcações no celular, com revisão das respostas.</p>
+      <p><strong>Flutter · Dart · Firebase</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/App_Corretor_Prova/blob/master/docs/scanner.md">Entender o scanner ↗</a> · <a href="https://github.com/alex10presam-lang/App_Corretor_Prova#testes-e-integra%C3%A7%C3%A3o">Testar o reconhecimento ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+[Ver todos os meus repositórios ↗](https://github.com/alex10presam-lang?tab=repositories)
 
 <a id="tecnologias"></a>
 
