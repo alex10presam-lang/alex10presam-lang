@@ -138,5 +138,5 @@ Manaus, Amazonas · Português nativo · Inglês intermediário · Espanhol bás
 ---
 
 <p align="center">
-  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/signature-alexandre-v6.png"><img src="assets/signature-alexandre-v6.gif" alt="Engenharia para entender. Dados para enxergar. Código para construir. Alexandre em pixel art inspirado em suas fotos: trabalha no computador, olha para a câmera, sorri, faz um joinha e volta a trabalhar." width="1200"></picture>
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/signature-alexandre-v7.png"><img src="assets/signature-alexandre-v7.gif" alt="Engenharia para entender. Dados para enxergar. Código para construir. Alexandre em pixel art inspirado em suas fotos: trabalha no computador, olha para a câmera, sorri, faz um joinha e volta a trabalhar." width="1200"></picture>
 </p>
