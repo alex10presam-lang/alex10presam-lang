@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="#em-destaque">Em destaque</a> &nbsp;·&nbsp;
   <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
   <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
   <a href="mailto:Alex10pres_am@hotmail.com">Contato</a>
@@ -51,6 +52,31 @@ Automatizei uma rotina de planilhas com Python. O tempo de execução passou de 
 <h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-projetos-v4.png"><img src="assets/section-projetos-v4.gif" alt="Projetos" width="1200"></picture></h2>
 
 Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens abaixo vêm dos próprios repositórios.
+
+<a id="em-destaque"></a>
+
+### Em destaque · Dados e qualidade
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/portal-rnc-demo#readme">Portal RNC · Gestão da qualidade ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/portal-rnc-demo#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/portal-rnc-demo/main/docs/screenshots/02-minha-mesa.png" alt="Minha mesa do Portal RNC com indicadores de situação e pendências fictícias" width="420"></a></p>
+      <p>Do registro da não conformidade à ação corretiva: cinco etapas, reinspeções, evidências, histórico e indicadores.</p>
+      <p><strong>JavaScript · Node.js · Vite · ECharts</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/portal-rnc-demo#como-executar">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/portal-rnc-demo#telas-do-sistema">Ver as telas ↗</a></p>
+      <p><sub>Edição independente com identidade própria e 15 registros fictícios por sessão. Sem conexão com banco ou infraestrutura corporativa.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/nexo-dados#readme">Nexo Dados · Análise de planilhas ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/nexo-dados#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/nexo-dados/main/docs/qualidade.jpg" alt="Painel do Nexo Dados com taxa de rejeição, volume inspecionado e ranking por linha usando dados sintéticos" width="420"></a></p>
+      <p>Importação e preparação de CSV/Excel, indicadores auditáveis e investigação de mudanças, com assistência opcional de IA.</p>
+      <p><strong>Python · SQLite · JavaScript · HTML/CSS</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/nexo-dados#rodar-a-demonstra%C3%A7%C3%A3o">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/nexo-dados#caso-de-portf%C3%B3lio--qualidade-industrial">Conferir o caso de qualidade ↗</a></p>
+      <p><sub>Exemplo reproduzível: 4% de rejeição em 600 itens; comparação da linha A de 3% para 8%. Dados sintéticos e demonstração sem chave de API.</sub></p>
+    </td>
+  </tr>
+</table>
 
 #### ScrapFlow · Dados e automação
 
