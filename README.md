@@ -10,6 +10,7 @@
 <p align="center">
   <a href="#em-destaque">Em destaque</a> &nbsp;·&nbsp;
   <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#experiencia">Experiência</a> &nbsp;·&nbsp;
   <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
   <a href="mailto:Alex10pres_am@hotmail.com">Contato</a>
 </p>
@@ -24,34 +25,19 @@ Sou **Alexandre Prestes**, estudante de **Engenharia Elétrica**, em Manaus, e e
 
 Meu foco é **análise de dados, Business Intelligence e automações em Python**. Trabalho com extração e tratamento de bases, atualização de indicadores da qualidade e automação de planilhas, utilizando também **Power Query e DAX**. Estou aprofundando meus conhecimentos em **Power BI e SQL**.
 
-**Experiência que conecta dados e soluções**
-
-- **Inventus Power · desde agosto de 2026:** tratamento de dados, atualização de bases e indicadores da qualidade e participação em melhorias com planilhas automatizadas e Power BI.
-- **Projetos independentes · desde 2023:** desenvolvimento de ferramentas em Python para estoque, vendas e organização de dados de pequenos negócios em Manaus.
-- **Academia STEM (Samsung) · novembro de 2022 a novembro de 2024:** coordenação de uma equipe de **seis pessoas** na entrega de **dois aplicativos**, para navegação fluvial e reciclagem, além de documentação técnica e uso de Scrum e Kanban.
-
-**Formação e cursos**
-
-- **Engenharia Elétrica — Faculdade Anhanguera:** em andamento.
-- **Engenharia Elétrica — Universidade do Estado do Amazonas (UEA):** seis períodos cursados.
-- **Google Data Analytics Professional Certificate (v.3) — Google / Coursera:** outubro de 2026. [Ver certificado ↗](https://www.credly.com/go/NfA7bK2Y)
-- **Introdução ao Power BI — Fundação Bradesco:** 2026.
-
-**Um resultado da minha experiência**
-
-Automatizei uma rotina de planilhas com Python. O tempo de execução passou de aproximadamente **1 hora para 2 minutos**.
-
-| Antes | Com a automação |
-| :---: | :---: |
-| Aproximadamente **60 minutos** | Aproximadamente **2 minutos** |
-
-<sub>Tempos aproximados da rotina citada na minha experiência profissional. Os projetos públicos abaixo utilizam dados de demonstração.</sub>
-
 <a id="projetos"></a>
 
 <h2 align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/section-projetos-v4.png"><img src="assets/section-projetos-v4.gif" alt="Projetos" width="1200"></picture></h2>
 
-Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens abaixo vêm dos próprios repositórios.
+Projetos públicos selecionados pelo foco em **dados, automação e qualidade**. Cada README apresenta o problema, a implementação, como experimentar e os limites da versão. As imagens vêm dos próprios repositórios.
+
+| Prioridade | Projeto | Competências demonstradas | Por onde começar |
+| :---: | --- | --- | --- |
+| 1 | **[Nexo Dados](https://github.com/alex10presam-lang/nexo-dados#readme)** | Preparação de dados, indicadores auditáveis, Python e SQLite | [Caso de qualidade industrial](https://github.com/alex10presam-lang/nexo-dados#caso-de-portfólio--qualidade-industrial) |
+| 2 | **[ScrapFlow](https://github.com/alex10presam-lang/scrapflow#readme)** | Validação de CSV/Excel, cálculo de perdas e automação de relatórios | [Resultado reproduzível](https://github.com/alex10presam-lang/scrapflow#um-resultado-que-você-pode-conferir) |
+| 3 | **[Portal RNC](https://github.com/alex10presam-lang/portal-rnc-demo#readme)** | Fluxos de qualidade, rastreabilidade, regras e indicadores | [Roteiro da demonstração](https://github.com/alex10presam-lang/portal-rnc-demo#um-roteiro-rápido-para-conhecer-o-portal) |
+
+Os exemplos desses projetos usam dados fictícios ou sintéticos. As métricas das demonstrações ilustram os cálculos e são distintas dos resultados da minha experiência profissional.
 
 <a id="em-destaque"></a>
 
@@ -60,20 +46,20 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/alex10presam-lang/nexo-dados#readme">Nexo Dados · Análise de planilhas ↗</a></h3>
+      <p align="center"><a href="https://github.com/alex10presam-lang/nexo-dados#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/nexo-dados/main/docs/demo-qualidade.gif" alt="Demonstração do Nexo Dados: preparação de dados e investigação de indicadores de qualidade com dados sintéticos" width="420"></a></p>
+      <p>Importação e preparação de CSV/Excel, indicadores auditáveis e investigação de mudanças, com assistência opcional de IA.</p>
+      <p><strong>Python · SQLite · JavaScript · HTML/CSS</strong></p>
+      <p><a href="https://github.com/alex10presam-lang/nexo-dados#rodar-a-demonstra%C3%A7%C3%A3o">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/nexo-dados#caso-de-portf%C3%B3lio--qualidade-industrial">Conferir o caso de qualidade ↗</a></p>
+      <p><sub>Exemplo reproduzível: 4% de rejeição em 600 itens; comparação da linha A de 3% para 8%. Dados sintéticos e demonstração sem chave de API.</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/alex10presam-lang/portal-rnc-demo#readme">Portal RNC · Gestão da qualidade ↗</a></h3>
       <p align="center"><a href="https://github.com/alex10presam-lang/portal-rnc-demo#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/portal-rnc-demo/main/docs/screenshots/02-minha-mesa.png" alt="Minha mesa do Portal RNC com indicadores de situação e pendências fictícias" width="420"></a></p>
       <p>Do registro da não conformidade à ação corretiva: cinco etapas, reinspeções, evidências, histórico e indicadores.</p>
       <p><strong>JavaScript · Node.js · Vite · ECharts</strong></p>
       <p><a href="https://github.com/alex10presam-lang/portal-rnc-demo#como-executar">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/portal-rnc-demo#telas-do-sistema">Ver as telas ↗</a></p>
       <p><sub>Edição independente com identidade própria e 15 registros fictícios por sessão. Sem conexão com banco ou infraestrutura corporativa.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/alex10presam-lang/nexo-dados#readme">Nexo Dados · Análise de planilhas ↗</a></h3>
-      <p align="center"><a href="https://github.com/alex10presam-lang/nexo-dados#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/nexo-dados/main/docs/demo-vendas.gif" alt="Demonstração do Nexo Dados: importação de CSV e investigação de vendas com dados sintéticos" width="420"></a></p>
-      <p>Importação e preparação de CSV/Excel, indicadores auditáveis e investigação de mudanças, com assistência opcional de IA.</p>
-      <p><strong>Python · SQLite · JavaScript · HTML/CSS</strong></p>
-      <p><a href="https://github.com/alex10presam-lang/nexo-dados#rodar-a-demonstra%C3%A7%C3%A3o">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/nexo-dados#caso-de-portf%C3%B3lio--qualidade-industrial">Conferir o caso de qualidade ↗</a></p>
-      <p><sub>Exemplo reproduzível: 4% de rejeição em 600 itens; comparação da linha A de 3% para 8%. Dados sintéticos e demonstração sem chave de API.</sub></p>
     </td>
   </tr>
 </table>
@@ -96,6 +82,11 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
     </td>
   </tr>
 </table>
+
+### Outros projetos · Sistemas de gestão e aplicativos
+
+<details>
+<summary>Ver SGC, DJ WASH, EletroPro e Corretor de Provas</summary>
 
 <table>
   <tr>
@@ -136,7 +127,36 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
   </tr>
 </table>
 
+</details>
+
 [Ver todos os meus repositórios ↗](https://github.com/alex10presam-lang?tab=repositories)
+
+<a id="experiencia"></a>
+
+## Experiência e formação
+
+**Experiência que conecta dados e soluções**
+
+- **Inventus Power · desde agosto de 2026:** tratamento de dados, atualização de bases e indicadores da qualidade e participação em melhorias com planilhas automatizadas e Power BI.
+- **Projetos independentes · desde 2023:** desenvolvimento de ferramentas em Python para estoque, vendas e organização de dados de pequenos negócios em Manaus.
+- **Academia STEM (Samsung) · novembro de 2022 a novembro de 2024:** coordenação de uma equipe de **seis pessoas** na entrega de **dois aplicativos**, para navegação fluvial e reciclagem, além de documentação técnica e uso de Scrum e Kanban.
+
+**Formação e cursos**
+
+- **Engenharia Elétrica — Faculdade Anhanguera:** em andamento.
+- **Engenharia Elétrica — Universidade do Estado do Amazonas (UEA):** seis períodos cursados.
+- **Google Data Analytics Professional Certificate (v.3) — Google / Coursera:** outubro de 2026. [Ver certificado ↗](https://www.credly.com/go/NfA7bK2Y)
+- **Introdução ao Power BI — Fundação Bradesco:** 2026.
+
+**Um resultado da minha experiência**
+
+Automatizei uma rotina de planilhas com Python. O tempo de execução passou de aproximadamente **1 hora para 2 minutos**.
+
+| Antes | Com a automação |
+| :---: | :---: |
+| Aproximadamente **60 minutos** | Aproximadamente **2 minutos** |
+
+<sub>Tempos aproximados da rotina citada na minha experiência profissional. Os projetos públicos abaixo utilizam dados de demonstração.</sub>
 
 <a id="tecnologias"></a>
 
@@ -150,6 +170,18 @@ Python intermediário · HTML intermediário · JavaScript básico
 
 **Organização de projetos**  
 Scrum · Kanban · documentação técnica
+
+**Onde conferir essas competências**
+
+| Competência | Evidência pública |
+| --- | --- |
+| Preparação e análise de dados | [Indicadores, correções e comparação de períodos no Nexo Dados](https://github.com/alex10presam-lang/nexo-dados#o-que-este-projeto-demonstra) |
+| Python e automação de planilhas | [Pipeline e geração de relatórios do ScrapFlow](https://github.com/alex10presam-lang/scrapflow#arquitetura) |
+| Modelagem relacional e regras de negócio | [Modelos e serviços do SGC](https://github.com/alex10presam-lang/sgc-crediario-Python#acesso-e-organização) |
+| Processos e indicadores da qualidade | [Fluxo e decisões técnicas do Portal RNC](https://github.com/alex10presam-lang/portal-rnc-demo#decisões-técnicas-demonstradas) |
+| Documentação e testes | Os READMEs dos projetos incluem instruções de execução, testes e limites conhecidos. |
+
+Power BI, Power Query e DAX fazem parte da experiência e dos estudos descritos acima. Os exemplos públicos desta seleção usam as tecnologias indicadas em cada repositório.
 
 Uso documentação técnica, Scrum e Kanban para organizar o desenvolvimento e comunicar as entregas.
 
