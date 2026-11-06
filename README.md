@@ -69,7 +69,7 @@ Aplicações que conectam dados, gestão e problemas do dia a dia. As imagens ab
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/alex10presam-lang/nexo-dados#readme">Nexo Dados · Análise de planilhas ↗</a></h3>
-      <p align="center"><a href="https://github.com/alex10presam-lang/nexo-dados#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/nexo-dados/main/docs/qualidade.jpg" alt="Painel do Nexo Dados com taxa de rejeição, volume inspecionado e ranking por linha usando dados sintéticos" width="420"></a></p>
+      <p align="center"><a href="https://github.com/alex10presam-lang/nexo-dados#readme"><img src="https://raw.githubusercontent.com/alex10presam-lang/nexo-dados/main/docs/demo-vendas.gif" alt="Demonstração do Nexo Dados: importação de CSV e investigação de vendas com dados sintéticos" width="420"></a></p>
       <p>Importação e preparação de CSV/Excel, indicadores auditáveis e investigação de mudanças, com assistência opcional de IA.</p>
       <p><strong>Python · SQLite · JavaScript · HTML/CSS</strong></p>
       <p><a href="https://github.com/alex10presam-lang/nexo-dados#rodar-a-demonstra%C3%A7%C3%A3o">Executar a demonstração ↗</a> · <a href="https://github.com/alex10presam-lang/nexo-dados#caso-de-portf%C3%B3lio--qualidade-industrial">Conferir o caso de qualidade ↗</a></p>
