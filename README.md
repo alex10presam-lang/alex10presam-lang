@@ -31,11 +31,12 @@ Meu foco é **análise de dados, Business Intelligence e automações em Python*
 
 Projetos públicos selecionados pelo foco em **dados, automação e qualidade**. Cada README apresenta o problema, a implementação, como experimentar e os limites da versão. As imagens vêm dos próprios repositórios.
 
-| Prioridade | Projeto | Competências demonstradas | Por onde começar |
-| :---: | --- | --- | --- |
-| 1 | **[Nexo Dados](https://github.com/alex10presam-lang/nexo-dados#readme)** | Preparação de dados, indicadores auditáveis, Python e SQLite | [Caso de qualidade industrial](https://github.com/alex10presam-lang/nexo-dados#caso-de-portfólio--qualidade-industrial) |
-| 2 | **[ScrapFlow](https://github.com/alex10presam-lang/scrapflow#readme)** | Validação de CSV/Excel, cálculo de perdas e automação de relatórios | [Resultado reproduzível](https://github.com/alex10presam-lang/scrapflow#um-resultado-que-você-pode-conferir) |
-| 3 | **[Portal RNC](https://github.com/alex10presam-lang/portal-rnc-demo#readme)** | Fluxos de qualidade, rastreabilidade, regras e indicadores | [Roteiro da demonstração](https://github.com/alex10presam-lang/portal-rnc-demo#um-roteiro-rápido-para-conhecer-o-portal) |
+| Projeto | Competências demonstradas | Por onde começar |
+| --- | --- | --- |
+| **[Nexo Dados](https://github.com/alex10presam-lang/nexo-dados#readme)** | Preparação de dados, indicadores auditáveis, Python e SQLite | [Caso de qualidade industrial](https://github.com/alex10presam-lang/nexo-dados#caso-de-portfólio--qualidade-industrial) |
+| **[ScrapFlow](https://github.com/alex10presam-lang/scrapflow#readme)** | Validação de CSV/Excel, cálculo de perdas e automação de relatórios | [Resultado reproduzível](https://github.com/alex10presam-lang/scrapflow#um-resultado-que-você-pode-conferir) |
+| **[IQC Automation](https://github.com/alex10presam-lang/iqc-automation-portfolio#readme)** | Integração com Protheus, automação de Excel e validação por célula | [Demonstração com dados fictícios](https://github.com/alex10presam-lang/iqc-automation-portfolio#demonstração-em-um-minuto) |
+| **[Portal RNC](https://github.com/alex10presam-lang/portal-rnc-demo#readme)** | Fluxos de qualidade, rastreabilidade, regras e indicadores | [Roteiro da demonstração](https://github.com/alex10presam-lang/portal-rnc-demo#um-roteiro-rápido-para-conhecer-o-portal) |
 
 Os exemplos desses projetos usam dados fictícios ou sintéticos. As métricas das demonstrações ilustram os cálculos e são distintas dos resultados da minha experiência profissional.
 
@@ -82,6 +83,10 @@ Os exemplos desses projetos usam dados fictícios ou sintéticos. As métricas d
     </td>
   </tr>
 </table>
+
+#### IQC Automation · Integração com ERP e Excel
+
+O projeto confere se os valores das planilhas atualizadas correspondem às fontes do ERP. Na demonstração, as duas versões têm o mesmo número de linhas, mas a conferência detecta uma quantidade incorreta e identifica a célula `B3`. O exemplo roda em Python com dados fictícios, sem Excel ou acesso ao ERP. [Experimentar IQC Automation](https://github.com/alex10presam-lang/iqc-automation-portfolio#demonstração-em-um-minuto)
 
 ### Outros projetos · Sistemas de gestão e aplicativos
 
@@ -156,7 +161,7 @@ Automatizei uma rotina de planilhas com Python. O tempo de execução passou de 
 | :---: | :---: |
 | Aproximadamente **60 minutos** | Aproximadamente **2 minutos** |
 
-<sub>Tempos aproximados da rotina citada na minha experiência profissional. Os projetos públicos abaixo utilizam dados de demonstração.</sub>
+<sub>Tempos aproximados da rotina citada na minha experiência profissional. Os projetos públicos desta página utilizam dados de demonstração.</sub>
 
 <a id="tecnologias"></a>
 
